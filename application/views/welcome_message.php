@@ -5,7 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Azure App Service on Linux</title>
+  <title>Azure App Service on Linux (MSFT Open Day Malaysia)</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="<?php echo base_url();?>/css/bootstrap.min.css">
