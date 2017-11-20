@@ -19,7 +19,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header" >         
-          <a class="navbar-brand" href="#">Azure App Service on Linux (MSFT Open Day Singapore)</a>		 
+          <a class="navbar-brand" href="#">Azure App Service on Linux</a>		 
         </div>            
       </div>
     </nav> 
