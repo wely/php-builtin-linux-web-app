@@ -5,7 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Azure App Service on Linux (MSFT Open Day Malaysia)</title>
+  <title>Azure App Service on Linux</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="<?php echo base_url();?>/css/bootstrap.min.css">
@@ -19,7 +19,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header" >         
-          <a class="navbar-brand" href="#">Azure App Service on Linux</a>		 
+          <a class="navbar-brand" href="#">Azure App Service on Linux (MSFT Open Day Singapore)</a>		 
         </div>            
       </div>
     </nav> 
