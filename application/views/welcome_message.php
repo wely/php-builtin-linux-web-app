@@ -16,7 +16,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </head>
 <body>
 
- <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color:blue;">
+ <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header" >         
           <a class="navbar-brand" href="#">Azure App Service on Linux</a>		 
