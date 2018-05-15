@@ -16,10 +16,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </head>
 <body>
 
- <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color:yellow">
+ <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color:green;">
       <div class="container">
         <div class="navbar-header" >         
-          <a class="navbar-brand" href="#">Azure App Service on Linux v3</a>		 
+          <a class="navbar-brand" href="#">Azure App Service on Linux v4</a>		 
         </div>            
       </div>
     </nav> 
